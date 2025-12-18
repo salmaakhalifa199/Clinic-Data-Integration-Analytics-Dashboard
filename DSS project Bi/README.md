@@ -1,4 +1,4 @@
-Clinic Data Engineering & Analytics Pipeline
+**Clinic Data Engineering & Analytics Pipeline**
 
 This project demonstrates an end-to-end data engineering and analytics workflow for a healthcare (clinic) dataset, covering data ingestion, transformation, storage, and visualization.
 
